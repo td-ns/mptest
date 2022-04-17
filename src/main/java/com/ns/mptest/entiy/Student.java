@@ -35,4 +35,6 @@ public class Student {
     @TableLogic
     @TableField(fill = FieldFill.INSERT)
     private Integer deleted;
+    
+    //xxx
 }
